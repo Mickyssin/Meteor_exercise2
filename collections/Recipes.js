@@ -71,4 +71,5 @@ Meteor.methods({
 	}
 });
 
+
 Recipes.attachSchema( RecipeSchema );
